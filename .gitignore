@@ -1,0 +1,33 @@
+# Виртуальное окружение
+venv/
+env/
+.env
+.venv/
+
+# Файлы с секретами
+config.py
+
+# База данных
+*.db
+*.sqlite
+*.sqlite3
+
+# Логи
+*.log
+
+# Настройки IDE
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+
+# Файлы Python
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.idea/
+.vscode/
+*.iml
